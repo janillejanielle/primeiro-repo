@@ -1,0 +1,9 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome = "JANILLE"
+		escreva("Olá Mundo")
+	}
+}
